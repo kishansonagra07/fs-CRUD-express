@@ -1,0 +1,9 @@
+[
+  {
+    "id": 0,
+    "name": "Test Blog",
+    "price": 200,
+    "description": "This is dummy description",
+    "date": "2019-11-23"
+  }
+]
